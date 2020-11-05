@@ -1,0 +1,7 @@
+{
+    "/persona/*": {
+        "target": "http://localhost:101",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
